@@ -8,4 +8,5 @@ To Learn
   - https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html
 4. Обход словаря в цикле for. По ключам, по значениям, одновременно по ключу и значению. Если ночью разбудили - мочь объяснить
   - https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html
+5. Метод get словаря, как работает. Отличие от [].
   
