@@ -10,7 +10,8 @@ To Learn
 4. Обход словаря в цикле for. По ключам, по значениям, одновременно по ключу и значению. Если ночью разбудили - мочь объяснить
   - https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html
 5. Метод get словаря, как работает. Отличие от [].
+  - https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html - про словари
 6. Основные коды ответов http сервера: 200, 302, 404, 403
   - https://developer.mozilla.org/ru/docs/Web/HTTP/Status
-9. Метод super
+7. Метод super
   
