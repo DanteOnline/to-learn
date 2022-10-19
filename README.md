@@ -14,4 +14,5 @@ To Learn
 6. Основные коды ответов http сервера: 200, 302, 404, 403
   - https://developer.mozilla.org/ru/docs/Web/HTTP/Status
 7. Метод super
+  - https://tirinox.ru/super-python/
   
