@@ -15,4 +15,6 @@ To Learn
   - https://developer.mozilla.org/ru/docs/Web/HTTP/Status
 7. Метод super
   - https://tirinox.ru/super-python/
+8. Обработка ошибок (try - except - else - finally)
+9. Длина списка, словаря, множества, строки
   
